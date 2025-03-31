@@ -1,8 +1,9 @@
-# Tetris GAme
+# Tetris Game
 
-Practica de Senior segida enn un video de Youtube de el gran Maestro MiduDev...
+Practica de Senior, realizada para aprender y estudiar nuevos casos y situaciones. 
+Reto de un video de Youtube del gran Maestro MiduDev...
 
-He aprendido conocimentos y logicas que desconocia. 
+Aprendido conocimentos y logicas que desconocia gracias a esta prueba. 
 
 Seguimos aprendiendo.
 
